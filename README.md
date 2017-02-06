@@ -9,6 +9,7 @@
 - ☐ [Part 1](https://www.edx.org/course/how-code-systematic-program-design-part-ubcx-spd1x)  
 - ☐ [Part 2](https://www.edx.org/course/how-code-systematic-program-design-part-ubcx-spd2x)  
 - ☐ [Part 3](https://www.edx.org/course/how-code-systematic-program-design-part-ubcx-spd3x)  
+
 ☐ Math (Calculus & Discrete Math)  
 - ☐ [Calculus One](https://www.coursera.org/learn/calculus1)  
 - ☐ [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)  
