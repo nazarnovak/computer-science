@@ -2,7 +2,7 @@
 
 ## Curriculum
 
-☑ [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
+☑ [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)  
 ☐ [Introduction to Computer Science](#introduction-to-computer-science)
 ☐ [Math (Mathematical Thinking)](#math-mathematical-thinking)
 ☐ [Program Design](#program-design)
