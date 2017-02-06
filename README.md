@@ -13,15 +13,19 @@
 ☐ Math (Calculus & Discrete Math)  
 - ☐ [Calculus One](https://www.coursera.org/learn/calculus1)  
 - ☐ [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)  
+
 ☐ Algorithms  
 - ☐ [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)  
 - ☐ [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)  
+
 ☐ Programming Paradigms  
 - ☐ [Functional Programming Principles in Scala](https://www.coursera.org/course/progfun)  
 - ☐ [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java)  
+
 ☐ Software Testing  
 - ☐ [Software Testing](https://www.udacity.com/course/software-testing--cs258)  
 - ☐ [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)  
+
 ☐ [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)  
 ☐ [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)  
 ☐ [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)  
@@ -36,6 +40,7 @@
 ☐ Cryptography  
 - ☐ [Cryptography I](https://www.coursera.org/course/crypto)  
 - ☐ [Cryptography II](https://www.coursera.org/course/crypto2)  
+
 ☐ [Introduction to Cyber Security](https://www.futurelearn.com/courses/introduction-to-cyber-security)  
 ☐ [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)  
 ☐ [Parallel Computer Architecture and Programming](http://15418.courses.cs.cmu.edu/spring2016/home)  
